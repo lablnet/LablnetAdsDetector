@@ -4,9 +4,9 @@
     <id>LablnetAdsDetector</id>
     <author>Muhammad Umer Farooq</author>
     <description>Detect AdBlockers and show message to disable it.</description>
-    <license>Open Source Social Network License (OSSN LICENSE)</license>
+    <license>MIT</license>
     <author_url>https://lablnet.com/</author_url>
-    <license_url>http://www.opensource-socialnetwork.org/licence</license_url>
+    <license_url>https://github.com/lablnet/LablnetAdsDetector/blob/main/LICENSE</license_url>
     <version>1.0.0</version>
 	<requires>
 		<type>ossn_version</type>
